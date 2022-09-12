@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bastos/AndroidStudioProjects/Cadastro2/app/build/intermediates/merged_res/debug/layout_mostralista.xml.flat",
+        "source": "/home/bastos/AndroidStudioProjects/Cadastro2/app/src/main/res/layout/mostralista.xml"
+    },
+    {
+        "merged": "/home/bastos/AndroidStudioProjects/Cadastro2/app/build/intermediates/merged_res/debug/layout_main.xml.flat",
+        "source": "/home/bastos/AndroidStudioProjects/Cadastro2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/bastos/AndroidStudioProjects/Cadastro2/app/build/intermediates/merged_res/debug/drawable_icon.png.flat",
+        "source": "/home/bastos/AndroidStudioProjects/Cadastro2/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/bastos/AndroidStudioProjects/Cadastro2/app/build/intermediates/merged_res/debug/layout_cadastro.xml.flat",
+        "source": "/home/bastos/AndroidStudioProjects/Cadastro2/app/src/main/res/layout/cadastro.xml"
+    }
+]

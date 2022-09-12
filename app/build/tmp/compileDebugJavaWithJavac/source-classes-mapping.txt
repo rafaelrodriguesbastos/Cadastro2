@@ -1,0 +1,4 @@
+com/android/Cadastro/Cadastro.java
+ com.android.Cadastro.Cadastro
+com/android/Cadastro/BuildConfig.java
+ com.android.Cadastro.BuildConfig
